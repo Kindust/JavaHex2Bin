@@ -1,8 +1,8 @@
-package com.kindust.hexbinconverter;
+package com.kindust.hexdecconverter;
 
-public class Bin2Hex {
+public class Hex2Dec {
 	
-	public Bin2Hex() {
+	public Hex2Dec() {
 		
 	}
 	
